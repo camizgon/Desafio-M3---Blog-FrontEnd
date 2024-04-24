@@ -30,10 +30,15 @@ nav {
 }
 
 .texto_principal {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 110px;
   font-size: 28px;
   font-weight: bold;
+}
+
+.card{
+  display: flex;
+  border: none;
 }
 
 .card_img {
@@ -61,8 +66,13 @@ nav {
   color: #171717;
 }
 
-.card_logo1{
-    width: 40px;
-    border-radius: 77px;
-    margin-left: 110px;
+.user_image {
+  width: 40px;
+  border-radius: 77px;
+  margin-left: 110px;
+}
+
+.user_name{
+  font-size: 20px;
+  margin-left: 10px;
 }
