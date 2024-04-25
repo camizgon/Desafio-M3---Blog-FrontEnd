@@ -143,8 +143,6 @@ nav {
   column-gap: 2px;
 }
 
-
-
 .popular_img--horizontal{
   width: 298px;
   height: 200px;
@@ -157,6 +155,8 @@ nav {
 }
 
 .popular_title--horizontal{
+  width: 295px;
+  height: 60px;
   font-weight: 700;
   font-size: 20px;
   padding-bottom: 25px;
@@ -171,4 +171,15 @@ nav {
 .popular_logo_descripcion--horizontal{
   margin-left: 15px;
   font-weight: 400;
+}
+
+.category{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left:50px;
+}
+
+.category__img _category--vertical{
+  
 }
