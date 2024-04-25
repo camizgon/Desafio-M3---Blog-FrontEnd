@@ -119,10 +119,6 @@ nav {
   
 }
 
-.popular--horizontal{
-  flex-direction: row;
-}
-
 .product_logo--vertical{
   width: 35px;
   margin-left: 25px;
@@ -242,4 +238,19 @@ height: 45;
 font-weight: 700;
 font-size: 28px;
 color: #fff;
+}
+
+.footer_image{
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  margin-top: 15px;
+  margin-left: 200px;
+}
+
+.footer_title{
+  font-size: 20px;
+  margin-top: 25px;
+  margin-left: 8px;
+  font-weight: bold;
 }
